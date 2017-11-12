@@ -21,6 +21,8 @@ personal website
   
   - apple music API for currently listenting to? or plain-text alternative
   
+  - pull favourite movies and movies I want to watch from imdb RSS feeds.
+  
   - github api to document changes to the website in a changelog format
   
   - pull latest instagram posts as plain images
