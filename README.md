@@ -7,12 +7,15 @@ personal website
 
 <b>goals</b>:
   
-  -responsive
-  
-  -fast
-  
-  -nier colour pallette + ascii art styling
+  <i>function</i>
 
+      - responsive
+      - fast
+
+  <i>form:</i>
+
+    - nier colour pallette + ascii art styling
+    - font-family: Consolas, monaco, monospace;
 
 <b>Development steps</b>:
   - use pocket API to pull latest archived articles to generate a list of "recently read"
@@ -28,3 +31,10 @@ personal website
   - pull latest instagram posts as plain images
 
   - seperate inspiration image feed based on direct image upload or url upload
+  - markdown to html workflow for uploading articles/pages, automatically apply minimal css to new markdown files in "article" github repository.
+
+
+<b>inspiration</b>
+- https://observablehq.com/
+- http://brutalistwebsites.com/
+- http://wiki.xxiivv.com/
