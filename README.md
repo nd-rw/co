@@ -18,6 +18,9 @@ personal website
     - font-family: Consolas, monaco, monospace;
 
 <b>Development steps</b>:
+  
+  - install and sync git on server to this repo. 
+  
   - use pocket API to pull latest archived articles to generate a list of "recently read"
   
   - use goodreads API to pull "books read" and "currently reading" to display both.
