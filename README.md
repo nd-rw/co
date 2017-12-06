@@ -19,7 +19,7 @@ personal website
 
 <b>Development steps</b>:
   
-  - install and sync git on server to this repo. 
+  - install and sync git on server to this repo. https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-16-04#how-to-set-up-git
   
   - use pocket API to pull latest archived articles to generate a list of "recently read"
   
