@@ -35,7 +35,7 @@ personal website
 
   - seperate inspiration image feed based on direct image upload or url upload
   
-  - markdown to html workflow for uploading articles/pages, automatically apply minimal css to new markdown files in "article" github repository.
+  - markdown to html workflow for uploading articles/pages, automatically apply minimal css to new markdown files in "article" github repository. (https://github.com/CouscousPHP/Couscous)
   
   - create python scripts that create csv file and update csv based on API calls described above (schedule the python scripts to run on a decided interval (once a day?) using cron). More serverside processing = faster page loads.
   
