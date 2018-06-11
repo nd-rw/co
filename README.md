@@ -5,6 +5,8 @@ personal website
 
 <b>frontend</b>: html/css/js + potential framework to help?
 
+<b>js libraries</b>: https://github.com/xtianmiller/emergence.js
+
 <b>goals</b>:
   
   <i>function</i>
