@@ -5,7 +5,8 @@ personal website
 
 <b>frontend</b>: html/css/js + choo (https://github.com/choojs/choo) / other potential framework?
 
-<b>js libraries</b>: https://github.com/xtianmiller/emergence.js
+<b>js/ect libraries</b>: https://github.com/xtianmiller/emergence.js
+  - https://github.com/hughsk/web-audio-analyser/ (for audio wave viz)
 
 <b>goals</b>:
   
