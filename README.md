@@ -3,7 +3,7 @@ personal website
 
 <b>backend</b>: flask + python scripts autoscheduled by cron
 
-<b>frontend</b>: html/css/js + potential framework to help?
+<b>frontend</b>: html/css/js + choo (https://github.com/choojs/choo) / other potential framework?
 
 <b>js libraries</b>: https://github.com/xtianmiller/emergence.js
 
@@ -48,3 +48,4 @@ personal website
 - https://observablehq.com/
 - http://brutalistwebsites.com/
 - http://wiki.xxiivv.com/
+- https://jon-kyle.com/entries/2018-05-26-trans-catalina
