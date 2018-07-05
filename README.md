@@ -1,7 +1,7 @@
 # .co
 personal website
 
-<b>backend</b>: flask + python scripts autoscheduled by cron
+<b>backend</b>: flask + python scripts autoscheduled by cron OR gohugo(https://gohugo.io/getting-started/quick-start/)
 
 <b>frontend</b>: html/css/js + choo (https://github.com/choojs/choo) / other potential framework?
 
