@@ -18,7 +18,7 @@ personal website
   <i>form:</i>
 
     - nier colour pallette + ascii art styling
-    - font-family: Consolas, monaco, monospace;
+    - font-family: Consolas, monaco, monospace, gt zirkon
 
 <b>Development steps</b>:
   
@@ -50,3 +50,4 @@ personal website
 - http://brutalistwebsites.com/
 - http://wiki.xxiivv.com/
 - https://jon-kyle.com/entries/2018-05-26-trans-catalina
+- http://www.gt-zirkon.com/#
