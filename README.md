@@ -38,6 +38,12 @@ personal website
 
   - seperate inspiration image feed based on direct image upload or url upload
   
+  - input page to update "currently reading/watching/playing" 
+      - Album Search(https://github.com/alastair/python-musicbrainzngs/issues/197
+      - Games Search (Giant Bomb wiki)
+      - Movies Search (IMDB or equiv)
+      - all entries need a date and historicals need to be stored.
+  
   - markdown to html workflow for uploading articles/pages, automatically apply minimal css to new markdown files in "article" github repository. (https://github.com/CouscousPHP/Couscous)
   
   - create python scripts that create csv file and update csv based on API calls described above (schedule the python scripts to run on a decided interval (once a day?) using cron). More serverside processing = faster page loads.
