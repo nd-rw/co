@@ -44,7 +44,7 @@ personal website
       - Movies Search (IMDB or equiv)
       - all entries need a date and historicals need to be stored.
   
-  - markdown to html workflow for uploading articles/pages, automatically apply minimal css to new markdown files in "article" github repository. (https://github.com/CouscousPHP/Couscous)
+  - markdown to html workflow for uploading articles/pages, automatically apply minimal css to new markdown files in "article" github repository. (https://github.com/Python-Markdown/markdown/blob/master/docs/reference.md)
   
   - create python scripts that create csv file and update csv based on API calls described above (schedule the python scripts to run on a decided interval (once a day?) using cron). More serverside processing = faster page loads.
   
