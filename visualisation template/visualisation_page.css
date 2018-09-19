@@ -1,0 +1,26 @@
+header {
+    background: black;
+    height: 7.5%;
+    width: 100%;
+    margin-left: -0.5%;
+    margin-top: -0.5%;
+    position: fixed;
+}
+
+#header-text {
+    color: white;
+    font-family: monospace;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 25pt;
+    line-height: 1;
+    line-break: loose;
+    display: inline-block;
+    width: fit-content;
+    
+}
+
+body {
+
+}
