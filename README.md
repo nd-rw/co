@@ -46,9 +46,9 @@ personal website
   
   - markdown to html workflow for uploading articles/pages, automatically apply minimal css to new markdown files in "article" github repository. (https://github.com/Python-Markdown/markdown/blob/master/docs/reference.md)
   
-  - create python scripts that create csv file and update csv based on API calls described above (schedule the python scripts to run on a decided interval (once a day?) using cron). More serverside processing = faster page loads.
+  - create python scripts that create json file and update json based on API calls described above (schedule the python scripts to run on a decided interval (once a day?) using cron). More serverside processing = faster page loads.
   
-  - use javascript to produce a html table with the csv stored on the server (possibly duplicate these csv files on a CDN (eg: aws ect ect) for security reasons so visitors are not privy to any primary server files or connections).
+  - use javascript to produce a html table with the json stored on the server (possibly duplicate these json files on a CDN (eg: aws ect ect) for security reasons so visitors are not privy to any primary server files or connections).
 
 
 <b>inspiration</b>
