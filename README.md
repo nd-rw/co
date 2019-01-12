@@ -18,7 +18,8 @@ personal website
   <i>form:</i>
 
     - nier colour pallette + ascii art styling
-    - font-family: Consolas, monaco, monospace, gt zirkon
+    - font-family: Consolas, monaco, monospace, gt zirkon, Nocturno
+    https://www.typotheque.com/fonts/nocturno/buy?bc[pack]=0
 
 <b>Development steps</b>:
   
