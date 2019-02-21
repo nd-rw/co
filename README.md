@@ -4,6 +4,9 @@ personal website
 <b>backend</b>: flask + python scripts autoscheduled by cron OR gohugo(https://gohugo.io/getting-started/quick-start/)
 
 <b>frontend</b>: html/css/js + choo (https://github.com/choojs/choo) / other potential framework?
+                 **css frameworks:**
+                  - https://github.com/tachyons-css/tachyons
+                  -https://github.com/nd-rw/uikit
 
 <b>js/ect libraries</b>: https://github.com/xtianmiller/emergence.js
   - https://github.com/hughsk/web-audio-analyser/ (for audio wave viz)
