@@ -1,31 +1,33 @@
 # .co
 personal website
 
-<b>backend</b>: flask + python scripts autoscheduled by cron OR gohugo(https://gohugo.io/getting-started/quick-start/)
+<h3>backend</h3>: flask + python scripts autoscheduled by cron
 
-<b>frontend</b>: html/css/js + choo (https://github.com/choojs/choo) / other potential framework?
-                 
-                 **css frameworks:**
-                  - https://github.com/tachyons-css/tachyons
-                  -https://github.com/nd-rw/uikit
+**OR**
+gohugo(https://gohugo.io/getting-started/quick-start/)
 
-<b>js/ect libraries</b>: https://github.com/xtianmiller/emergence.js
+<h3>frontend</h3>: html/css/js + choo (https://github.com/choojs/choo) / other potential framework?
+<h4>css frameworks:</h4>
+ - https://github.com/tachyons-css/tachyons
+ - https://github.com/nd-rw/uikit
+
+<h3>js/ect libraries</h3>: https://github.com/xtianmiller/emergence.js
   - https://github.com/hughsk/web-audio-analyser/ (for audio wave viz)
 
-<b>goals</b>:
+<h2>goals:</h2>
   
-  <i>function</i>
+  <h3>function</h3>
 
       - responsive
       - fast
 
-  <i>form:</i>
+  <h3>form:</h3>
 
     - nier colour pallette + ascii art styling
     - font-family: Consolas, monaco, monospace, gt zirkon, Nocturno
     https://www.typotheque.com/fonts/nocturno/buy?bc[pack]=0
 
-<b>Development steps</b>:
+<h2>Development steps</h2>:
   
   - install and sync git on server to this repo. https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-16-04#how-to-set-up-git
   
@@ -56,7 +58,7 @@ personal website
   - use javascript to produce a html table with the json stored on the server (possibly duplicate these json files on a CDN (eg: aws ect ect) for security reasons so visitors are not privy to any primary server files or connections).
 
 
-<b>inspiration</b>
+<h3>inspiration</h3>
 - https://observablehq.com/
 - http://brutalistwebsites.com/
 - http://wiki.xxiivv.com/
