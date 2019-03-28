@@ -3,8 +3,8 @@ personal website
 
 <h3>backend</h3>: flask + python scripts autoscheduled by cron
 
-**OR**
-gohugo(https://gohugo.io/getting-started/quick-start/)
+**PROBABLY:**
+vuepress(https://github.com/vuejs/vuepress)
 
 <h3>frontend</h3>: html/css/js + choo (https://github.com/choojs/choo) / other potential framework?
 <h4>css frameworks:</h4>
