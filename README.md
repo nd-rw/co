@@ -59,9 +59,19 @@ vuepress(https://github.com/vuejs/vuepress)
 
 
 <h3>inspiration</h3>
+
+- https://callumflack.design/the-littoral-line
+
 - https://observablehq.com/
+
 - http://brutalistwebsites.com/
+
 - http://wiki.xxiivv.com/
+
 - https://jon-kyle.com/entries/2018-05-26-trans-catalina
+
+
 - http://www.gt-zirkon.com/#
+
 - https://brandur.org/interfaces (BIG MOOD)
+
