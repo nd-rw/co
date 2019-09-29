@@ -4,9 +4,8 @@ personal website
 <h3>backend</h3>: flask + python scripts autoscheduled by cron
 <h4>python packages:</h4>
 - https://github.com/juancarlospaco/css-html-js-minify
+- technical drawing of a turbocharger animated using this code: http://bl.ocks.org/KoGor/8160770
 
-**PROBABLY:**
-vuepress(https://github.com/vuejs/vuepress)
 
 <h3>frontend</h3>: html/css/js + choo (https://github.com/choojs/choo) / other potential framework?
 <h4>css frameworks:</h4>
