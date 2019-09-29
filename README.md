@@ -1,4 +1,6 @@
 # .co
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8f32b96f-9015-45e7-a795-acbcf3791553/deploy-status)](https://app.netlify.com/sites/unruffled-bose-1c2551/deploys)
+
 personal website
 
 <h3>backend</h3>: flask + python scripts autoscheduled by cron
