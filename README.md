@@ -2,6 +2,8 @@
 personal website
 
 <h3>backend</h3>: flask + python scripts autoscheduled by cron
+<h4>python packages:</h4>
+- https://github.com/juancarlospaco/css-html-js-minify
 
 **PROBABLY:**
 vuepress(https://github.com/vuejs/vuepress)
