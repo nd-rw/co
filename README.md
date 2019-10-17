@@ -23,8 +23,9 @@ minified html/css/js
 <h4>css frameworks:</h4>
 
  - https://github.com/tachyons-css/tachyons (good style but may be too opinionated when writing creative/expressive css)
- - https://github.com/kbrsh/wing
  - https://github.com/louismerlin/concrete.css
+ - https://github.com/dhg/Skeleton/
+ - https://github.com/kbrsh/wing
  - investigate other lightweight, minimalist css frameworks
 
 
