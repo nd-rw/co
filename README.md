@@ -3,25 +3,40 @@
 
 personal website
 
-<h3>backend</h3>: flask + python scripts autoscheduled by cron
-<h4>python packages:</h4>
-- https://github.com/juancarlospaco/css-html-js-minify
-- technical drawing of a turbocharger animated using this code: http://bl.ocks.org/KoGor/8160770
+<h3>backend</h3>
 
+`python code` that:
 
-<h3>frontend</h3>: html/css/js + choo (https://github.com/choojs/choo) / other potential framework?
-<h4>css frameworks:</h4>
- - https://github.com/tachyons-css/tachyons
+ - interprets information (folder structures, markdown, css and javascript files)
+ - updates data based on API calls or personal online data stores
+ - minifies/packages up all of the above in a suitable format to be deployed for netlify.
  
- - https://github.com/nd-rw/uikit
+ 
+<b>python packages:</b>
+- https://github.com/juancarlospaco/css-html-js-minify
 
-<h3>js/ect libraries</h3>: https://github.com/xtianmiller/emergence.js
-  - https://github.com/hughsk/web-audio-analyser/ (for audio wave viz)
+
+<h3>frontend</h3>: 
+
+minified html/css/js
+
+<h4>css frameworks:</h4>
+
+ - https://github.com/tachyons-css/tachyons (good style but may be too opinionated when writing creative/expressive css)
+ - https://github.com/kbrsh/wing
+ - 
+ - investigate other lightweight, minimalist css frameworks
+
+
+<h3>js/ect libraries</h3>:
+- http://bl.ocks.org/KoGor/8160770 - technical drawing of a turbocharger animated using this code.
+- https://github.com/xtianmiller/emergence.js
+- https://github.com/hughsk/web-audio-analyser/ (for audio wave viz)
 
 <h2>goals:</h2>
   
   <h3>function</h3>
-
+  
       - responsive
       - fast
 
@@ -74,8 +89,10 @@ personal website
 
 - https://jon-kyle.com/entries/2018-05-26-trans-catalina
 
-
 - http://www.gt-zirkon.com/#
 
 - https://brandur.org/interfaces (BIG MOOD)
+
+- 90s sci-fi/cyberpunk-ish anime computer interfaces (Cowboy Bebop, Evangellion, Akira)
+
 
