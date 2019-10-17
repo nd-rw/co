@@ -16,7 +16,7 @@ personal website
 - https://github.com/juancarlospaco/css-html-js-minify
 
 
-<h3>frontend</h3>: 
+<h3>frontend</h3>
 
 minified html/css/js
 
