@@ -96,4 +96,8 @@ minified html/css/js
 
 - 90s sci-fi/cyberpunk-ish anime computer interfaces (Cowboy Bebop, Evangellion, Akira)
 
+- https://paco.im/
+
+- https://manuelmoreale.com/now
+
 
