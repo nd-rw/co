@@ -44,7 +44,10 @@ minified html/css/js
   <h3>form:</h3>
 
     - nier colour pallette + ascii art styling
-    - font-family: Consolas, monaco, monospace, gt zirkon, Nocturno
+    - font-family: Karelia (https://monokrom.no/fonts/karelia)
+    - Other fonts:
+    
+    Consolas, monaco, monospace, gt zirkon, Nocturno
     https://www.typotheque.com/fonts/nocturno/buy?bc[pack]=0
 
 <h2>Development steps</h2>:
