@@ -1,6 +1,0 @@
-API KEYS
-
---GOODREADS--
-gr_key = 'Ps9P2LhtrqgsfwEEA0iUA'
-gr_secret = 'acwZRyOA9npNfIouyCUInBA9L1RHZAlbhofbzC7ZZbY'
-user_id = '52479819'
