@@ -60,7 +60,7 @@ minified html/css/js
   
   - apple music API for currently listenting to? or plain-text alternative
   
-  - pull favourite movies and movies I want to watch from imdb RSS feeds.
+  - pull favourite movies and movies I want to watch, and movies I've watched (https://github.com/StegSchreck/RatS)
   
   - github api to document changes to the website in a changelog format
   
