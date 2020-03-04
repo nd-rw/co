@@ -22,7 +22,7 @@ minified html/css/js
 
 <h4>css frameworks:</h4>
 
- - https://github.com/tachyons-css/tachyons (good style but may be too opinionated when writing creative/expressive css)
+ - https://github.com/tachyons-css/tachyons (good style & probably the best starting point)
  - https://github.com/louismerlin/concrete.css
  - https://github.com/dhg/Skeleton/
  - https://github.com/kbrsh/wing
