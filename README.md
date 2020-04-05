@@ -50,6 +50,9 @@ minified html/css/js
     Consolas, monaco, monospace, gt zirkon, Nocturno
     https://www.typotheque.com/fonts/nocturno/buy?bc[pack]=0
 
+<h2>Misc. Notes:</h2>
+ - Geohash-ed location for things
+
 <h2>Development steps</h2>:
   
   - install and sync git on server to this repo. https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-16-04#how-to-set-up-git
