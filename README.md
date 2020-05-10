@@ -86,6 +86,8 @@ minified html/css/js
 
 <h3>inspiration</h3>
 
+- https://github.com/karlicoss/HPI: in many ways, what I basically want to do.
+
 - https://callumflack.design/the-littoral-line
 
 - https://observablehq.com/
