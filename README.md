@@ -2,6 +2,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8f32b96f-9015-45e7-a795-acbcf3791553/deploy-status)](https://app.netlify.com/sites/unruffled-bose-1c2551/deploys)
 
 personal website
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
 
 <h3>backend</h3>
 
