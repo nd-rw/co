@@ -4,6 +4,10 @@
 personal website
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
 
+auto-gen readme of your github profile / other stuff:
+- https://github.com/simonw/simonw
+- https://twitter.com/simonw/status/1281435464474324993
+
 ## back-end
 
 `python code` that:
