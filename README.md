@@ -41,7 +41,8 @@ Split into books (currently-reading goodreads) and articles (recently read Pocke
 
 #### Currently Listening To
 
-Use last.fm to show top albums/tracks in last week.
+Use last.fm API to show top albums/tracks in last week.
+Use this snippet to get podcast history from PocketCasts: https://github.com/AnandChowdhary/services/blob/master/api/pocket-casts.ts
 
 #### Last Ride
 
