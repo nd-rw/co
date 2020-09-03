@@ -47,6 +47,7 @@ Use this snippet to get podcast history from PocketCasts: https://github.com/Ana
 #### Last Ride
 
 Get basic stats from last Strava bike ride.
+General health info from iOS Health app via Yoga: https://github.com/AnandChowdhary/yoga
 
 #### Index of other pages on site
 * readme
