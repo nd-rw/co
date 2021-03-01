@@ -49,6 +49,10 @@ Use this snippet to get podcast history from PocketCasts: https://github.com/Ana
 Get basic stats from last Strava bike ride.
 General health info from iOS Health app via Yoga: https://github.com/AnandChowdhary/yoga
 
+#### Screenshot Garden (via everest-pipkin)
+A way to display/catelogue a bunch of images
+https://screenshot-garden.neocities.org/build-your-own.html
+
 #### Index of other pages on site
 * readme
 * inspiration
