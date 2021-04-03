@@ -35,25 +35,27 @@ eventually will use:
 
 Logo using nichrome font rendered as .svg
 
-#### Currently Reading
+### Currently Reading
 
 Split into books (currently-reading goodreads) and articles (recently read Pocket)
 
-#### Currently Listening To
+### Currently Listening To
 
 Use last.fm API to show top albums/tracks in last week.
 Use this snippet to get podcast history from PocketCasts: https://github.com/AnandChowdhary/services/blob/master/api/pocket-casts.ts
 
-#### Last Ride
+### Other Minor Self Tracking / QS
 
-Get basic stats from last Strava bike ride.
-General health info from iOS Health app via Yoga: https://github.com/AnandChowdhary/yoga
+* Last Ride - Get basic stats from last Strava bike ride.
+  General health info from iOS Health app via Yoga: https://github.com/AnandChowdhary/yoga
+* Chipolo / Location - (https://github.com/sandeepmistry/node-chipolo)
+  
 
-#### Screenshot Garden (via everest-pipkin)
+### Screenshot Garden (via everest-pipkin)
 A way to display/catelogue a bunch of images
 https://screenshot-garden.neocities.org/build-your-own.html
 
-#### Index of other pages on site
+### Index of other pages on site
 * readme
 * inspiration
 * thoughts
